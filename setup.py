@@ -13,6 +13,8 @@ def main():
         for chunk in req.iter_content(chunk_size=128):
             fd.write(chunk)
 
+    print("Data downloaded!")
+
 
 if __name__ == '__main__':
     main()
