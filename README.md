@@ -11,6 +11,13 @@ As part of this course we're also going to introduce GitHub and conveniently Rep
 
 👉[Sign up for a GitHub account here](https://github.com/signup)
 
+### Fork this repo
+
+We want you to take a copy of this repo for all the work you'll do in today's course. In GitHub speak this is called [forking a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks).
+
+🍴 [Fork this repo](https://github.com/ARCTraining/quant-python-03-2022-replit/fork)
+
 ### Open this repo on Repl.it
 
-This is easy just click the button on this README!
+Once you've forked the repo you'll be navigated to your own personal copy of the repository. From there you can open it by clicking the `Run it on Repl.it` button at the top of this readme.
+
