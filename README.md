@@ -19,4 +19,5 @@ We want you to take a copy of this repo for all the work you'll do in today's co
 
 ### Open this repo on Repl.it
 
-Once you've forked the repo you'll be navigated to your own personal copy of the repository. From there you can open it 
+Once you've forked the repo you'll be navigated to your own personal copy of the repository. From there you can open it by clicking the `Run it on Repl.it` button at the top of this readme.
+
